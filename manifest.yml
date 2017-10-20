@@ -2,7 +2,7 @@
 applications:
 - disk_quota: 256M
   buildpack: nodejs_buildpack
-  host: GCM
+  host: prototipo123
   name: helloWatsonToneDemo
   command: node app.js
   path: .
